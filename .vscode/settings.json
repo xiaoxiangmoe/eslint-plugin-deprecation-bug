@@ -1,0 +1,8 @@
+{
+    "sonarlint.rules": {
+        "typescript:S1874": {
+            "level": "on"
+        }
+    }
+
+}
